@@ -362,3 +362,9 @@ WARNING: Unmatched cancel notification for request id 410
 2026.03.16 20:26:39 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
 2026.03.16 20:26:39 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
 2026.03.16 20:28:09 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 20:47:48 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 20:47:48 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java
+Mar 16, 2026 8:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 438
+2026.03.16 20:47:48 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 20:47:49 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
