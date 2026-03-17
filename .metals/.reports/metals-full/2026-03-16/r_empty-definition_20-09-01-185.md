@@ -1,16 +1,29 @@
+error id: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java:_empty_/PriceRule#
+file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+empty definition using pc, found symbol in pc: _empty_/PriceRule#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 838
+uri: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+text:
+```scala
 package org.example.Amazon;
 
-import java.util.List;
-
-import static org.assertj.core.api.Assertions.assertThat;
 import org.example.Amazon.Cost.DeliveryPrice;
 import org.example.Amazon.Cost.ExtraCostForElectronics;
 import org.example.Amazon.Cost.ItemType;
 import org.example.Amazon.Cost.PriceRule;
 import org.example.Amazon.Cost.RegularCost;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class AmazonIntegrationTest {
 
@@ -28,7 +41,7 @@ public class AmazonIntegrationTest {
 
         cart = new ShoppingCartAdaptor(database);
 
-        List<PriceRule> rules = List.of(
+        List<PriceRule@@> rules = List.of(
                 new RegularCost(),
                 new DeliveryPrice(),
                 new ExtraCostForElectronics()
@@ -98,3 +111,9 @@ public class AmazonIntegrationTest {
         assertThat(total).isEqualTo(0.0);
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/PriceRule#

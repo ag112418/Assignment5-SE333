@@ -1,3 +1,14 @@
+error id: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java:_empty_/BeforeEach#
+file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+empty definition using pc, found symbol in pc: _empty_/BeforeEach#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 608
+uri: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+text:
+```scala
 package org.example.Amazon;
 
 import java.util.List;
@@ -18,7 +29,7 @@ public class AmazonIntegrationTest {
     private ShoppingCartAdaptor cart;
     private Amazon amazon;
 
-    @BeforeEach
+    @BeforeEac@@h
     void setup() {
 
         database = new Database();
@@ -98,3 +109,9 @@ public class AmazonIntegrationTest {
         assertThat(total).isEqualTo(0.0);
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/BeforeEach#

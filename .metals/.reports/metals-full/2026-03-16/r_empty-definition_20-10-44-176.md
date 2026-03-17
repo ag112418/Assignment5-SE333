@@ -1,3 +1,14 @@
+error id: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java:_empty_/Database#
+file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+empty definition using pc, found symbol in pc: _empty_/Database#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 654
+uri: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+text:
+```scala
 package org.example.Amazon;
 
 import java.util.List;
@@ -21,7 +32,7 @@ public class AmazonIntegrationTest {
     @BeforeEach
     void setup() {
 
-        database = new Database();
+        database = new D@@atabase();
 
         // Reset DB before each test (assignment requirement)
         database.resetDatabase();
@@ -98,3 +109,9 @@ public class AmazonIntegrationTest {
         assertThat(total).isEqualTo(0.0);
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/Database#

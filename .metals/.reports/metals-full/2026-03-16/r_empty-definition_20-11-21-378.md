@@ -1,3 +1,14 @@
+error id: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java:_empty_/ShoppingCartAdaptor#
+file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+empty definition using pc, found symbol in pc: _empty_/ShoppingCartAdaptor#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 543
+uri: file://<WORKSPACE>/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+text:
+```scala
 package org.example.Amazon;
 
 import java.util.List;
@@ -15,7 +26,7 @@ import org.junit.jupiter.api.Test;
 public class AmazonIntegrationTest {
 
     private Database database;
-    private ShoppingCartAdaptor cart;
+    private Sho@@ppingCartAdaptor cart;
     private Amazon amazon;
 
     @BeforeEach
@@ -98,3 +109,9 @@ public class AmazonIntegrationTest {
         assertThat(total).isEqualTo(0.0);
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/ShoppingCartAdaptor#
