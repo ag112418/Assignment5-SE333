@@ -1,0 +1,136 @@
+2026.03.16 19:42:59 INFO  Started: Metals version 1.6.6 in folders '/Users/angelesgervacio/Desktop/Assignment5-SE333' for client Visual Studio Code 1.111.0.
+2026.03.16 19:42:59 INFO  Memory monitor started
+2026.03.16 19:43:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.16 19:43:01 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:07 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:07 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:08 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:43:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Mar 16, 2026 7:43:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.03.16 19:43:08 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:08 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:09 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:09 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:43:09 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:43:09 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:09 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:21 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:22 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:22 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:23 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:22 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:23 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java
+2026.03.16 19:43:23 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:25 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:27 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:27 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:27 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java
+2026.03.16 19:43:27 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:27 INFO  Created report: Optional[file:///Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java]
+2026.03.16 19:43:27 INFO  empty definition using pc, found symbol in pc: _empty_/PriceRule# (full report at: "/Users/angelesgervacio/Desktop/Assignment5-SE333/.metals/.reports/metals-full/2026-03-16/r_empty-definition_19-43-27-610.md")
+2026.03.16 19:43:27 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java
+Mar 16, 2026 7:43:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2026.03.16 19:43:27 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:43:27 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:28 INFO  Created report: Optional[file:///Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java]
+2026.03.16 19:43:28 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:43:27 INFO  Created report: Optional[file:///Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java]
+2026.03.16 19:43:27 INFO  empty definition using pc, found symbol in pc: _empty_/Item# (full report at: "/Users/angelesgervacio/Desktop/Assignment5-SE333/.metals/.reports/metals-full/2026-03-16/r_empty-definition_19-43-28-469.md")
+2026.03.16 19:43:28 INFO  empty definition using pc, found symbol in pc: _empty_/ItemType# (full report at: "/Users/angelesgervacio/Desktop/Assignment5-SE333/.metals/.reports/metals-full/2026-03-16/r_empty-definition_19-43-28-469.md")
+2026.03.16 19:44:05 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:05 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:05 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:44:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2026.03.16 19:44:05 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:05 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:44:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+2026.03.16 19:44:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:08 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/test/java/org/example/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:10 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:10 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:18 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:23 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:26 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:44:50 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.16 19:44:50 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+Mar 16, 2026 7:44:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+2026.03.16 19:44:50 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.16 19:44:50 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.16 19:44:51 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.16 19:45:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.16 19:45:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:45:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:45:06 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+Mar 16, 2026 7:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+Mar 16, 2026 7:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+2026.03.16 19:45:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:45:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:45:06 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:17 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:17 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:20 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:20 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:20 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:47:20 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:47:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+Mar 16, 2026 7:47:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+2026.03.16 19:47:20 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:20 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:25 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:25 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:25 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:25 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:25 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:26 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:26 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:26 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:47:26 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:27 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:47:26 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:40 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:40 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:44 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:44 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:55 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:47:55 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:37 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:37 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:37 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:38 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:38 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.16 19:48:38 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:39 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:39 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:39 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java
+2026.03.16 19:48:39 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:40 WARN  no build target for: /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java
+2026.03.16 19:48:39 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:44 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.16 19:48:44 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:48:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+2026.03.16 19:48:44 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:48:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.16 19:48:47 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+Mar 16, 2026 7:48:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.16 19:48:47 INFO  no build target found for /Users/angelesgervacio/Desktop/Assignment5-SE333/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
